@@ -10,7 +10,7 @@ screenshot:
 
 ### Installation
 
-1. Download this repo as zip, `download`
+1. Download this repo as zip, [download](https://github.com/vinhnx/Ciapre.itermcolors/archive/refs/heads/main.zip)
 2. Extract to a folder
 3. On Item2, open `Preferences` via `Command+,`
 4. Then on Tab Profiles > Color > Color Presets... > Import... select ciapre.itermcolors file and enjoy!
