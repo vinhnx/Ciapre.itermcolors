@@ -2,11 +2,17 @@
 
 Ciapre color scheme for iTerm2
 
+🎨 Check out my [Ciapre theme suite](https://github.com/vinhnx/Ciapre) 👈
+
+---
+
 color pallet:
 ![pallet](color.png)
 
 screenshot:
 ![screenshot](screenshot.png)
+
+---
 
 ### How to use
 
